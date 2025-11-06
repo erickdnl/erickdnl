@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Erick Daniel, tenho 23 anos e sou natural de Salvador/BA. Atualmente, estou cursando Engenharia de Software na Uninter.
+Me chamo Erick Daniel, tenho 23 anos e natural de Salvador/BA. Atualmente, sou estudante de Engenharia de Software, mas minha curiosidade vai além do código. Gosto de entender como as coisas funcionam, seja um software, um instrumento eletrônico ou uma ferramenta do dia a dia. Estou sempre aprendendo, errando, melhorando e me preparando para entrar no mercado e crescer cada vez mais.
 
 
 
